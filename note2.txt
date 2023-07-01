@@ -1,0 +1,38 @@
+Major Depressive Disorder (score 67)
+Diagnostic Results: Positive (tentative positive diagnosis confirmed)
+Detected Symptoms
+Severe You frequently felt depressed, sad, empty, or hopeless (DSM-5 criterion: A-3).
+Severe You lost/gained a significant amount of weight, or your appetite increased or decreased (DSM-5 criterion: A-3).
+Severe You felt restless and agitated, or slowed down (DSM-5 criterion: A-5).
+Severe You regularly felt tired or low on energy (DSM-5 criterion: A-6).
+Severe You experienced feelings of worthlessness or extreme guilt (DSM-5 criterion: A-7).
+Mild You had recurrent thoughts about death and suicide (DSM-5 criterion: A-9).
+Severe The depressive symptoms you experienced resulted in distress and affected your day-to-day functioning. (DSM-5 criterion: B).
+
+Manic Episodes (score 86)
+Diagnostic Results: Subclinical/Symptomatic
+Detected Symptoms
+Severe You experienced an unusually elevated, energetic, or irritable mood (DSM-5 criterion: A).
+Severe You experienced an abrupt increase in self-esteem, or a sense of grandiosity/superiority (DSM-5 criterion: B-1).
+Severe You were sleeping less yet still felt rested and able to function (DSM-5 criterion: B-2).
+Severe You were suddenly flooded with thoughts and ideas, and/or were talking more/faster (DSM-5 criteria: B-3 and/or B-4).
+Severe You became increasingly goal-oriented, taking on more activities than your normally would, and/or became easily distracted (DSM-5 criteria: B-5 and/or B-6).
+Severe You became excessively involved in fun activities that could have had negative consequences (DSM-5 criterion: B-7).
+
+Bipolar Disorder (score 93)
+Diagnostic Results: Subclinical/Symptomatic
+Detected Symptoms
+Severe You experienced extreme and inexplicable mood swings from depression to elation (DSM-5 criterion: D in BPD II).
+Severe You frequently felt depressed, sad, empty, or hopeless (DSM-5 criterion: A-3).
+Severe You lost/gained a significant amount of weight, or your appetite increased or decreased (DSM-5 criterion: A-3).
+Severe You felt restless and agitated, or slowed down (DSM-5 criterion: A-5).
+Severe You regularly felt tired or low on energy (DSM-5 criterion: A-6).
+Severe You experienced feelings of worthlessness or extreme guilt (DSM-5 criterion: A-7).
+Mild You had recurrent thoughts about death and suicide (DSM-5 criterion: A-9).
+Severe The depressive symptoms you experienced resulted in distress and affected your day-to-day functioning. (DSM-5 criterion: B).
+Severe You experienced an unusually elevated, energetic, or irritable mood (DSM-5 criterion: A).
+Severe You experienced an abrupt increase in self-esteem, or a sense of grandiosity/superiority (DSM-5 criterion: B-1).
+Severe You were sleeping less yet still felt rested and able to function (DSM-5 criterion: B-2).
+Severe You were suddenly flooded with thoughts and ideas, and/or were talking more/faster (DSM-5 criteria: B-3 and/or B-4).
+Severe You became increasingly goal-oriented, taking on more activities than your normally would, and/or became easily distracted (DSM-5 criteria: B-5 and/or B-6).
+Severe You became excessively involved in fun activities that could have had negative consequences (DSM-5 criterion: B-7).

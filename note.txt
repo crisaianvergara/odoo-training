@@ -1,0 +1,14 @@
+python3 odoo-bin --addons-path=addons -i dbtts
+
+sudo su postgres
+psql
+\c dbtts
+select * from hospital_patient;
+
+python3 odoo-bin --addons-path=enterprise,addons,technical-training-sandbox -d dbtts -u estate --dev xml
+
+python3 odoo-bin --addons-path=enterprise,addons,technical-training-sandbox -d dbtts -u estate,estate_account,pos_service_charge,owl,sample,pos_custom --dev xml --xmlrpc-port=9000
+
+python3 odoo-bin --addons-path=enterprise,addons,technical-training-sandbox -d dbtts -u estate,estate_account,pos_service_charge,owl,theme_sample --dev xml
+
+python3 odoo-bin --addons-path=enterprise,addons,technical-training-sandbox -d dbtts -u estate,estate_account,pos_service_charge,owl,sample,pos_custom,cris_hospital --dev xml --xmlrpc-port=9000

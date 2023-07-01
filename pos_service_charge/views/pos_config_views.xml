@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<odoo>
+    <data>
+        <record id='pos_config_view_form' model='ir.ui.view'>
+            <field name='name'>pos.config.inherit.view.form</field>
+            <field name='model'>pos.config</field>
+            <field name='inherit_id' ref='point_of_sale.pos_config_view_form'/>
+            <field name='arch' type='xml'>
+                <xpath expr="//div[@id='accounting_section']" position="after">
+                    <h2>Service Charge Information</h2>
+                        <group>
+                            <field name="service_charge_product_id" />
+                        </group>
+                </xpath>
+            </field>
+        </record>
+    </data>
+</odoo>
